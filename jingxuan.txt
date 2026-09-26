@@ -16,6 +16,7 @@
     { "name": "小凯", "url": "https://0.wdzb.eu.cc/tvbox/小凯.json" },
     { "name": "东篱", "url": "https://0.wdzb.eu.cc/tvbox/东篱.json" },
     { "name": "聚玩", "url": "https://0.wdzb.eu.cc/tvbox/聚玩.json" },
-    { "name": "哈吉米", "url": "https://0.wdzb.eu.cc/tvbox/哈吉米.json" }
+    { "name": "哈吉米", "url": "https://0.wdzb.eu.cc/tvbox/哈吉米.json" },
+    { "name": "⚽体育线路", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/tiyu.json" }
   ]
 }
