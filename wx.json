@@ -2,18 +2,15 @@
   "storeHouse": [
     {
       "sourceName": "⭐精选线路仓",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926
-/main/jingxuan.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/jingxuan.txt"
     },
     {
       "sourceName": "💎聚合线路仓",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926
-/main/juhe.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/juhe.txt"
     },
     {
       "sourceName": "🔄备用线路仓",
-      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926
-/main/beiyong.txt"
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/beiyong.txt"
     }
   ]
 }
