@@ -1,0 +1,20 @@
+{
+  "urls": [
+    { "name": "饭太硬1", "url": "https://0.wdzb.eu.cc/tvbox/饭太硬.json" },
+    { "name": "摸鱼1", "url": "https://0.wdzb.eu.cc/tvbox/摸鱼.json" },
+    { "name": "王二小1", "url": "https://0.wdzb.eu.cc/tvbox/王二小.json" },
+    { "name": "肥猫1", "url": "https://0.wdzb.eu.cc/tvbox/肥猫.json" },
+    { "name": "集多1", "url": "https://0.wdzb.eu.cc/tvbox/集多.json" },
+    { "name": "潇洒1", "url": "https://0.wdzb.eu.cc/tvbox/潇洒.json" },
+    { "name": "小米1", "url": "https://0.wdzb.eu.cc/tvbox/小米.json" },
+    { "name": "嗷呜1", "url": "https://0.wdzb.eu.cc/tvbox/嗷呜.json" },
+    { "name": "南风1", "url": "https://0.wdzb.eu.cc/tvbox/南风.json" },
+    { "name": "菜妮丝", "url": "https://0.wdzb.eu.cc/tvbox/菜妮丝.json" },
+    { "name": "俊宇", "url": "https://0.wdzb.eu.cc/tvbox/俊宇.json" },
+    { "name": "clun", "url": "https://0.wdzb.eu.cc/tvbox/clun.json" },
+    { "name": "小凯", "url": "https://0.wdzb.eu.cc/tvbox/小凯.json" },
+    { "name": "东篱", "url": "https://0.wdzb.eu.cc/tvbox/东篱.json" },
+    { "name": "聚玩", "url": "https://0.wdzb.eu.cc/tvbox/聚玩.json" },
+    { "name": "哈吉米", "url": "https://0.wdzb.eu.cc/tvbox/哈吉米.json" }
+  ]
+}
