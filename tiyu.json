@@ -1,104 +1,116 @@
 {
   "wallpaper": "https://picsum.photos/1920/1080",
-  "spider": "https://qiniu.gongxueyun.com/upload/5695330/2026-09-18/leave/466454997_2_1789736334293.jar;md5;835b242eab0da4d3402724dd4705a9e8",
+  "spider": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
   "sites": [
     {
-      "key": "Kanqiu",
-      "name": "🐟摸鱼┃88看球",
+      "key": "ty_kq_88",
+      "name": "⚽长青┃88体育",
       "type": 3,
-      "api": "csp_Kanqiu",
+      "api": "csp_Sir88Guard",
       "searchable": 0,
-      "filterable": 1,
-      "indexs": 0,
-      "ext": "http://www.88kanqiu.one",
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "ty_kq_chao",
+      "name": "⚽长青┃超全体育",
+      "type": 3,
+      "api": "csp_ZbzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+    },
+    {
+      "key": "ty_kq_shou",
+      "name": "⚽长青┃手机看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "ty_fty_ddbh",
+      "name": "🏀饭太硬┃多多回放",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
     },
     {
-      "key": "Sir88",
-      "name": "🐟摸鱼┃超全体育",
+      "key": "ty_fty_cigu",
+      "name": "🏐饭太硬┃吃瓜看球",
       "type": 3,
-      "api": "csp_Sir88",
+      "api": "csp_LiveGzGuard",
       "searchable": 0,
-      "filterable": 1,
-      "indexs": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
       }
     },
     {
-      "key": "QiutongTY",
-      "name": "🐟摸鱼┃球通体育",
+      "key": "ty_fty_kafe",
+      "name": "☕饭太硬┃咖啡体育",
       "type": 3,
-      "api": "csp_QiutongTY",
+      "api": "csp_KaFeiGuard",
       "searchable": 0,
-      "filterable": 0,
-      "changeable": 1
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
     },
     {
-      "key": "GuaziTY",
-      "name": "🐟摸鱼┃瓜子体育",
-      "type": 3,
-      "api": "csp_GuaziTY",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "919TY",
-      "name": "🐟摸鱼┃919体育",
-      "type": 3,
-      "api": "csp_C919TY",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_88看球",
+      "key": "ty_ly_88",
       "name": "🌿流云┃88看球",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/88看球.js",
+      "searchable": 0,
       "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/88看球.js"
+        "type": "list"
+      }
     },
     {
-      "key": "drpy_js_JRKAN直播",
+      "key": "ty_ly_jrkan",
       "name": "🌿流云┃JRKAN直播",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js",
+      "searchable": 0,
       "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js"
+        "type": "list"
+      }
     },
     {
-      "key": "cat体育聚合",
+      "key": "ty_xw_heju",
       "name": "⭐星微┃体育聚合",
       "type": 3,
       "api": "https://7337.kstore.vip/xw/js/体育聚合.js",
+      "searchable": 0,
+      "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
-    {
-      "key": "cat咖啡体育",
-      "name": "⭐星微┃咖啡体育",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/js/咖啡体育.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
+        "type": "list"
+      }
     }
   ],
   "lives": [
