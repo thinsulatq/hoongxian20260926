@@ -1,0 +1,307 @@
+{
+  "wallpaper": "https://picsum.photos/1920/1080",
+  "logo": "",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
+  "lives": [
+    {
+      "name": "📡咪咕直播",
+      "type": 0,
+      "url": "http://120.24.194.118:10002",
+      "playerType": 2
+    },
+    {
+      "name": "📡CCTV5体育",
+      "type": 0,
+      "url": "http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009",
+      "playerType": 2
+    },
+    {
+      "name": "📡综合直播",
+      "type": 0,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "playerType": 2
+    },
+    {
+      "name": "📡虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "📡斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
+  ],
+  "sites": [
+    {
+      "key": "SportAiFeiQiu",
+      "name": "🌐飞球┃体育",
+      "type": 3,
+      "api": "csp_SportAiFeiQiuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportAiGuaZi",
+      "name": "🌐瓜子┃体育",
+      "type": 3,
+      "api": "csp_SportAiGuaZiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportAiKanQiuTong",
+      "name": "🌐球通┃体育",
+      "type": 3,
+      "api": "csp_SportAiKanQiuTongGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportAiKanqiu",
+      "name": "🌐八八┃体育",
+      "type": 3,
+      "api": "csp_SportAiKanqiuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportAiKaFei",
+      "name": "🌐咖啡┃体育",
+      "type": 3,
+      "api": "csp_SportAiKaFeiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "SportAiWwe",
+      "name": "🌐WWE┃体育",
+      "type": 3,
+      "api": "csp_SportAiWweGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "GuaziLive_ao",
+      "name": "🏆瓜子┃体育(嗷呜)",
+      "type": 3,
+      "api": "csp_GuaziLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "GuaziLive",
+      "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008"
+    },
+    {
+      "key": "FeiqLive_ao",
+      "name": "🏆飞球┃体育(嗷呜)",
+      "type": 3,
+      "api": "csp_FeiqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008"
+    },
+    {
+      "key": "BbkqLive_ao",
+      "name": "🏆八八┃体育(嗷呜)",
+      "type": 3,
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "BbkqLive",
+      "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008"
+    },
+    {
+      "key": "KafLive_ao",
+      "name": "🏆咖啡┃体育(嗷呜)",
+      "type": 3,
+      "api": "csp_KafLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008"
+    },
+    {
+      "key": "kanqiu_ft",
+      "name": "⚽八八┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea"
+    },
+    {
+      "key": "duoduo_ft",
+      "name": "🏀多多┃回放",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea"
+    },
+    {
+      "key": "chigua_ft",
+      "name": "🏐吃瓜┃看球",
+      "type": 3,
+      "api": "csp_LiveGzGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea"
+    },
+    {
+      "key": "88kanqiu_xm",
+      "name": "⚽叭叭┃体育直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "changeable": 0,
+      "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260902/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+    },
+    {
+      "key": "guazi_xm",
+      "name": "🏀瓜子┃体育直播",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "changeable": 0,
+      "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260902/c48ed63d2f52adc74108b9b891accf90.png;md5;bd0990798869b7c5fb301fefc9f52330"
+    },
+    {
+      "key": "kanqiu_fm",
+      "name": "⚾┃看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3"
+    },
+    {
+      "key": "guazi_fm",
+      "name": "🏀┃瓜子┃体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "timeout": 12,
+      "changeable": 0,
+      "jar": "https://img2.gelonghui.com/library/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3"
+    },
+    {
+      "key": "GuaziSport_jd",
+      "name": "⚽瓜子┃体育(集多)",
+      "type": 3,
+      "api": "csp_GuaziSport",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;2ed2a6be7965e60313a7a892b1e89c96"
+    },
+    {
+      "key": "JuheSport_jd",
+      "name": "⚽聚合┃体育",
+      "type": 3,
+      "api": "csp_JuheSport",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;2ed2a6be7965e60313a7a892b1e89c96"
+    },
+    {
+      "key": "ShuaiJiao_jd",
+      "name": "🤺摔跤┃体育",
+      "type": 3,
+      "api": "csp_ShuaiJiao",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "sites": ""
+      },
+      "jar": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;2ed2a6be7965e60313a7a892b1e89c96"
+    },
+    {
+      "key": "kuakePHP_jd",
+      "name": "⚽酷克┃体育",
+      "type": 4,
+      "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
+      "searchable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "88kanqiu_drpy",
+      "name": "🏀八八看球(自建)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/thinsulatq/hoongxian20260926/main/八八看球.js"
+    }
+  ]
+}
