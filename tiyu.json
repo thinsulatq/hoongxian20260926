@@ -1,0 +1,102 @@
+{
+  "wallpaper": "https://picsum.photos/1920/1080",
+  "sites": [
+    {
+      "key": "ty_88kanqiu_gtly",
+      "name": "⚽高天流云┃88看球",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/88看球.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_310_gtly",
+      "name": "⚽高天流云┃310直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/310直播.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_jrkan_gtly",
+      "name": "⚽高天流云┃JRKAN直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_zhufan_gtly",
+      "name": "⚽高天流云┃抓饭体育",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_88kanqiu_xk",
+      "name": "⚽小凯┃88看球",
+      "type": 3,
+      "api": "https://jihulab.com/jyqhkd/kd/-/raw/main/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/jyqhkd/kd/-/raw/main/lib/88kanqiu.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_heju_xw",
+      "name": "⚽星微┃体育聚合",
+      "type": 3,
+      "api": "https://7337.kstore.vip/xw/js/体育聚合.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_kafei_xw",
+      "name": "⚽星微┃咖啡体育",
+      "type": 3,
+      "api": "https://7337.kstore.vip/xw/js/咖啡体育.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_jrkan_wx",
+      "name": "⚽无邪┃JRKAN直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/dr/js/JRKAN直播.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    },
+    {
+      "key": "ty_310_wx",
+      "name": "⚽无邪┃310直播",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/dr/lib/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/dr/js/310直播.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": { "type": "list" }
+    }
+  ],
+  "lives": [
+    {
+      "name": "🏆世界杯",
+      "type": 0,
+      "url": "https://ztha.top/TVBox/lib/fwc.m3u",
+      "playerType": 2
+    }
+  ],
+  "parses": []
+}
