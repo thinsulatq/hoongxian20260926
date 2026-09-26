@@ -1,0 +1,188 @@
+{
+  "wallpaper": "https://picsum.photos/1920/1080",
+  "sites": [],
+  "parses": [],
+  "lives": [],
+  "stores": [
+    {
+      "name": "饭太硬1",
+      "url": "https://0.12yue.de5.net/tvbox/饭太硬.json"
+    },
+    {
+      "name": "摸鱼1",
+      "url": "https://0.12yue.de5.net/tvbox/摸鱼.json"
+    },
+    {
+      "name": "王二小1",
+      "url": "https://9280.kstore.vip/aiwex.json"
+    },
+    {
+      "name": "肥猫1",
+      "url": "https://0.12yue.de5.net/tvbox/肥猫.json"
+    },
+    {
+      "name": "集多1",
+      "url": "https://0.12yue.de5.net/tvbox/集多.json"
+    },
+    {
+      "name": "潇洒1",
+      "url": "https://0.12yue.de5.net/tvbox/潇洒.json"
+    },
+    {
+      "name": "小米1",
+      "url": "https://0.12yue.de5.net/tvbox/小米.json"
+    },
+    {
+      "name": "嗷呜1",
+      "url": "https://0.12yue.de5.net/tvbox/嗷呜.json"
+    },
+    {
+      "name": "南风1",
+      "url": "https://0.12yue.de5.net/tvbox/南风.json"
+    },
+    {
+      "name": "幸福年年1",
+      "url": "http://150.158.52.248/tgyg/bbm.json"
+    },
+    {
+      "name": "老张",
+      "url": "https://zhangqun1818.serv00.net/zq/api.json"
+    },
+    {
+      "name": "挺好",
+      "url": "https://ztha.top/TVBox/thdjk.json"
+    },
+    {
+      "name": "小马",
+      "url": "https://szyyds.cn/tv/x.json"
+    },
+    {
+      "name": "周J",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/box"
+    },
+    {
+      "name": "菜妮丝",
+      "url": "https://0.12yue.de5.net/tvbox/菜妮丝.json"
+    },
+    {
+      "name": "心魔",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
+    },
+    {
+      "name": "俊宇",
+      "url": "http://home.jundie.top:81/top98.json"
+    },
+    {
+      "name": "clun",
+      "url": "https://clun.top/box.json"
+    },
+    {
+      "name": "小凯",
+      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
+    },
+    {
+      "name": "东篱",
+      "url": "https://0.12yue.de5.net/tvbox/东篱.json"
+    },
+    {
+      "name": "聚玩",
+      "url": "https://0.12yue.de5.net/tvbox/聚玩.json"
+    },
+    {
+      "name": "哈吉米",
+      "url": "https://0.12yue.de5.net/tvbox/哈吉米.json"
+    },
+    {
+      "name": "真六",
+      "url": "https://0.12yue.de5.net/tvbox/真六.json"
+    },
+    {
+      "name": "天神",
+      "url": "https://0.12yue.de5.net/tvbox/天神.json"
+    },
+    {
+      "name": "星微VIP",
+      "url": "https://7337.kstore.vip/xw/测试勿传"
+    },
+    {
+      "name": "小虎斑",
+      "url": "https://0.12yue.de5.net/tvbox/小虎斑.json"
+    },
+    {
+      "name": "嗨哥魔改",
+      "url": "https://api.hgyx.vip/hgyx.json"
+    },
+    {
+      "name": "分享者",
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"
+    },
+    {
+      "name": "传说",
+      "url": "https://0.12yue.de5.net/tvbox/传说.json"
+    },
+    {
+      "name": "夏夏影视",
+      "url": "https://11405.kstore.space/xiaye/qk4k.json"
+    },
+    {
+      "name": "健康家用",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
+    },
+    {
+      "name": "FongMi线路",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json"
+    },
+    {
+      "name": "高天流云js",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "name": "高天流云_XYQ",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+    },
+    {
+      "name": "凯弟",
+      "url": "https://jihulab.com/jyqhkd1/jk/-/raw/main/8.json"
+    },
+    {
+      "name": "时光",
+      "url": "https://0.12yue.de5.net/tvbox/时光.json"
+    },
+    {
+      "name": "刺桐",
+      "url": "https://www.cttv.vip/ys/json/ctys.json"
+    },
+    {
+      "name": "宝盒",
+      "url": "https://0.12yue.de5.net/tvbox/宝盒.json"
+    },
+    {
+      "name": "沐辰",
+      "url": "https://0.12yue.de5.net/tvbox/沐辰.json"
+    },
+    {
+      "name": "肥猫2",
+      "url": "https://jk.catvod.site"
+    },
+    {
+      "name": "摸鱼3线",
+      "url": "http://我不是.摸鱼儿.top"
+    },
+    {
+      "name": "饭太硬2线",
+      "url": "https://0.12yue.de5.net/tvbox/饭太硬2线.json"
+    },
+    {
+      "name": "嗷呜2线",
+      "url": "https://0.12yue.de5.net/tvbox/嗷呜2线.json"
+    },
+    {
+      "name": "王小二2",
+      "url": "https://9280.kstore.space/aiwex.json"
+    },
+    {
+      "name": "南风2",
+      "url": "https://0.12yue.de5.net/tvbox/南风2线.json"
+    }
+  ]
+}
